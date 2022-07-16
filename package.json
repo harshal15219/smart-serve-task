@@ -6,8 +6,8 @@
     "start": "ng serve",
     "build": "ng build --prod",
     "watch": "ng build --watch --configuration development",
-    "test": "ng test",
-    "deploy:github-pages":"ng deploy https://github.com/harshal15219/smart-serve-task"
+    "test": "ng test"
+    
   },
   "private": true,
   "dependencies": {
