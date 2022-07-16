@@ -1,0 +1,17 @@
+table {
+  width: 100%;
+}
+
+.app-main-container {
+  box-shadow: 6px 0px 18px rgba(0, 0, 0, 0.06);
+  min-height: calc(100vh - 162px);
+  background-color: #ffffff;
+  padding: 25px;
+  // overflow: auto;
+}
+
+.example-container {
+  height: 600px;
+  max-width: 100%;
+  overflow: auto;
+}
